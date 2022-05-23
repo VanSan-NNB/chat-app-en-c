@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="Chat En C" />
+  <img src="./.github/app.gif" alt="Chat app en C" />
 
   &#xa0;
 

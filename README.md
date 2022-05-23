@@ -39,8 +39,7 @@
   <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-starting">Starting</a> &#xa0; | &#xa0;
   <a href="#memo-license">License</a> &#xa0; | &#xa0;
-  <a href="NoNameBoyy" target="_blank">NoNameBoyy</a> &#xa0; | &#xa0;
-  <a href="Vansan" target="_blank">Vansan</a>
+  <a href="https://github.com/NoNameBoyy" target="_blank">NoNameBoyy</a>
 </p>
 
 <br>
@@ -88,7 +87,7 @@ $ ./client
 This project is under license from MIT. For more details, see the [LICENSE](https://github.com/NoNameBoyy/chat-app-en-c/blob/main/LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/NoNameBoyy" target="_blank">NoNameBoyy </a> & <a href="https://github.com/Vanelia" target="_blank">Vansan</a>
+Made with :heart: by <a href="https://github.com/NoNameBoyy" target="_blank">NoNameBoyy </a>
 
 
 &#xa0;

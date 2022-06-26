@@ -56,7 +56,7 @@ Projet de Chat via le terminal en C. Communication au tour à tour commençant p
 
 ## :white_check_mark: Requirements ##
 
-Avant de commencer :checkered_flag:, il est nécessaire d'avoir [Git](https://git-scm.com). Ne fonctionne pas sous Windows.
+Ne fonctionne pas sous Windows.
 
 Le serveur et le client communiquent en local, le bind n'est pas effectué. Pour procéder à une communication entre deux machines sur un même réseau ou sur un réseau différent :
 

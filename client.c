@@ -31,7 +31,6 @@ int main ()
     struct sockaddr_in addrClient;
 
     printf("_____    %s, %s    _____\n", __DATE__, __TIME__);
-
     addrClient.sin_family = AF_INET;
     addrClient.sin_addr.s_addr = INADDR_ANY;
     addrClient.sin_port = htons(8080);

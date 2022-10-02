@@ -67,8 +67,6 @@ void help()
     printf("!rename : Renommer le pseudo\n");
     printf("!rename_password : Renommer le mot de passe\n");
     printf("!crypt  : Afficher le pseudo et mot de passe crypté\n");
-
     printf("\nAttention : Une seule modification de compte par session (pseudo, mdp ou suppression)");
-
     printf("\n\n");
 }
